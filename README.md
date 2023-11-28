@@ -1,7 +1,7 @@
-# << ENTER WORKSHOP NAME HERE >>
-Materials for the << ENTER SERIES HERE (DASH/DMDS/RDM/etc.) >> workshop: **<<  ENTER WORKSHOP NAME HERE  >> **  
+# Intro to Making and Sharing Maps with ArcGIS Pro
+Materials for the DASH workshop: **Intro to Making and Sharing Maps with ArcGIS Pro**  
 
-This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/<<enter_site_url>>) with GitHub Pages. 
+This repository contains workshop files, as well as files used to create the [workshop webpage](https://scds.github.io/ArcGIS-Pro) with GitHub Pages. 
 
 Contributions by the following individuals: 
 - Workshop content created by << ENTER NAME(S) HERE >> 
