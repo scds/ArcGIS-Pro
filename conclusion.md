@@ -11,24 +11,31 @@ Add, edit, or remove any content below for the workshop in question.
 # Congratulations 
 
 <!-- Edit this line to mention your workshop name -->
-**Congratulations!** You've just finished this workshop.
+**Congratulations!** You've just finished the Making and Sharing Maps with ArcGIS Pro workshop.
 
 <!-- Recap your learning objectives from the introductory. -->
 You should now be able to:
-- To do this
-- And this other thing
-- Double check that the learning objectives in the introduction match up!
+- Navigate the ArcGIS interface
+- Symbolize different types of data
+- Create a map using ArcGIS Pro
+- Access additional help and resources
 
 <!-- This is where you can add additional resources for your readers. -->
 # Additional Resources
-To learn more about any particular topic, take a look at the links below.
+To learn more, take a look at the links below.
 
-## Topic
-- Some link
-- Other 
+## Guides
+- [ArcGIS at McMaster University Library Guide](https://arcgis-mcmaster.hub.arcgis.com/)
+- [GIS and Geospatial Data LibGuide](https://libguides.mcmaster.ca/GIS)
 
-## Topic 2
-- Other resource
+## Tutorials
+- [ArcGIS Pro Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/pro-quickstart-tutorials.htm)
+- [Learn ArcGIS Pro Tutorial Gallery](https://learn.arcgis.com/en/gallery/#?p=arcgispro)
 
 ## Related Workshops
-- Link the users to other related SCDS workshops here!
+- [Making the Move from ArcMap to ArcGIS Pro](https://scds.github.io/dash-webinars/ArcGISPro.html)
+- [Introduction to GIS and ArcGIS Online](https://scds.github.io/intro-arcgis-online/)
+- [How to Copy Content Between ArcGIS Accounts](https://scds.github.io/dash-webinars/Copy_ArcGIS_Content.html)
+- [Introduction to ArcGIS Storymaps](https://scds.github.io/intro-storymaps/)
+- [Introduction to the Business Analyst Web App](https://scds.github.io/intro-to-bao/)
+- [Introduction to Geospatial Data](https://scds.github.io/dash-webinars/Intro-Geospatial-Data.html)
