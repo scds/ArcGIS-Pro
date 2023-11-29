@@ -15,32 +15,26 @@ Seperate preparation into account creation, file downloads, and software downloa
 However, you can format this as you wish.
 An example is provided below.
 -->
-## 1. Create an account
-- Navigate to [website](https://www.google.com) and sign up for an account if you don't already have one.
-- After registering, sign in to your account.
+## 1. Create an ArcGIS account
+Navigate to the [ArcGIS Software Request form](https://mcmaster-ca.libwizard.com/f/arcgis) and sign up for an account if you don't already have one.
 
-## 2. Get the data
-You will have an opportunity to download the data during the workshop; however, if you would like to do so ahead of time, it can be downloaded [here](https://www.google.com).
+## 2. Download the project file
+Download the [ArcGIS Project Package file](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/homuthc_mcmaster_ca/EuSoB-Dk4MdHgohGV_OKQbcBsBA4W3U7JVq7sb7fuaO0Tg?e=9oWgqw) that's been created for the purpose of this workshop.
 
-## 3. Get the software
-This hands-on workshop uses [Software Name](https://www.google.com). Please download *Software Name* in advance of the workshop to be able to participate in it to the fullest extent.
+## 3. Install the software
+This hands-on workshop uses ArcGIS Pro. Please download and install the software in advance of the workshop to be able to participate in it to the fullest extent.
 
 {: .warning }
-> This is a warning message. You can use to to mention things like:
->
-> - Must be a McMaster Student/Staff to access content/software licenses
-> - Windows/MacOS/Linux is not supported
+> Please note, you must be a current McMaster student, faculty, or staff member to request a McMaster ArcGIS account.
 
-### Windows/Mac Installation
+### Windows Installation
 <!-- Usually, linking to an installation guide on the official website of the software is enough, no need to explain how to install. -->
 <!-- If there are additional steps not covered in the installation guide, include them -->
-- Steps for installation.
+Unfortunately, Mac OS is not a supported operating system for ArcGIS Pro. Follow the steps in the installation guide, below, to install the software on your PC.
 
-    ![An image to show the step above](assets/img/temporaryInstallationGuide.png)
+[Install ArcGIS Pro](https://pro.arcgis.com/en/pro-app/3.1/get-started/install-and-sign-in-to-arcgis-pro.htm#ESRI_SECTION1_3D4C69C5FA7740A0B2F5BD74DDF24C30)
 
-- More guidance can be found [here](https://www.google.com).
+Once the software is installed, sign in with your ArcGIS account to get started.
 
-### Linux Installation
-- Steps for installation.
-- More steps for installation.
-- More guidance can be found [here](https://www.google.com).
+[Start ArcGIS Pro](https://pro.arcgis.com/en/pro-app/3.1/get-started/start-arcgis-pro-with-a-named-user-license.htm#ESRI_SECTION1_9B71D6716706466590EFF21B0827484D)
+
