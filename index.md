@@ -5,7 +5,7 @@ nav_order: 1
 has_toc: false
 
 # Set this to "false" if you removed 'previousOffering.md'
-has_children: true 
+has_children: false 
 ---
 <!-- 
 This will be the home page of your module. It should give a small introduction to the student about the workshop topic.
