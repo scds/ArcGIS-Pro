@@ -12,30 +12,29 @@ This will be the home page of your module. It should give a small introduction t
 Add, edit, or remove any content below for the workshop in question. -->
 
 <!-- Title slide image. Replace img src with your own, or comment this out. -->
-<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/arcgispro.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
 # Intro to Making and Sharing Maps with ArcGIS Pro
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+ArcGIS Pro is a professional desktop Geographic Information Systems (GIS) program. It is a powerful data visualization tool that maps and analyzes data, depicting patterns and trends. 
 
-In this tutorial, you will learn about ______.
+This workshop is geared towards beginners new to ArcGIS or ArcMap users making the switch to ArcGIS Pro. Attendees will become familiar with ArcGIS tools that are available on campus, learn the ArcGIS Pro interface, symbolize data, and share the resulting map. 
 
 ## Prerequisites
 
 <!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
+An ArcGIS account is required for attendees who wish to follow along with the workshop content. Accounts can be requested by completing the [ArcGIS software request form](https://mcmaster-ca.libwizard.com/f/arcgis). 
+
+*Please note that ArcGIS is proprietary software and complimentary access is restricted to McMaster staff, students, and faculty for teaching, learning, and scholarly research.*
 
 <!-- What will the student learn to do, learn to use, etc. -->
 ## Learning Objectives
-By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
+By the end of this workshop, you will:
+- Get to know the ArcGIS interface
+- Learn how to symbolize different types of data
+- Create a map using ArcGIS Pro
+- Know where you can get additional help and resources
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
 ## Duration (optional)
