@@ -54,15 +54,16 @@ As a quick introduction, the following video from Esri introduces ArcGIS Pro usi
 The text version of the tutorial can be found in the [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm).
 
 <!-- Place iframe of video here -->
-<iframe id="kmsembed-1_22wi7jam" width="400" height="285" src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_22wi7jam/uiConfId/49806163/pbc/238049152/st/0" class="kmsembed" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" referrerPolicy="no-referrer-when-downgrade" sandbox="allow-downloads allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Introducing ArcGIS Pro"></iframe>
+<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_22wi7jam/uiConfId/49806163/pbc/238049152/st/0" title="Introducing ArcGIS Pro"></iframe>
 
 [View original here.](https://mediaspace.esri.com/media/t/1_22wi7jam)
 
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 
 ## Saving your Project
+
 {: .highlight }
->It's important to regularly save your project to prevent you from losing any work. 
+It's important to regularly save your project to prevent you from losing any work. 
 
 To save the project with a new name:
 - Click the Project tab on the ribbon
