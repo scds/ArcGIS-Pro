@@ -22,10 +22,7 @@ Navigate to the [ArcGIS Software Request form](https://mcmaster-ca.libwizard.com
 > You must be a current McMaster student, faculty, or staff member to request an account using the above form.
 > Use of the software is restricted to teaching, learning, and scholarly research at McMaster.
 
-## 2. Download the project file
-Download the [ArcGIS Project Package file](https://mcmasteru365-my.sharepoint.com/:f:/g/personal/homuthc_mcmaster_ca/EuSoB-Dk4MdHgohGV_OKQbcBsBA4W3U7JVq7sb7fuaO0Tg?e=9oWgqw) that's been created for the purpose of this workshop.
-
-## 3. Install the software
+## 2. Install the software
 This hands-on workshop uses ArcGIS Pro. Please download and install the software in advance of the workshop to be able to participate in it to the fullest extent.
 
 ### Windows Installation
