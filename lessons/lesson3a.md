@@ -1,17 +1,15 @@
 ---
 layout: default
-title: Lesson 3a - Sub-lesson Name
+title: Lesson 3a - Web Maps and Project Packages
 nav_order: 1
-
-# Notice the two lines below. Since this is a sub-lesson of a lesson (Lesson 3a), it's parent is lesson 3 and it's grandparent is Lessons. Make sure to include this if you decide to have sub-lessons. 
-parent: Lesson 3 - Lesson Name # Don't forget to change! Should be the title of your parent lesson.
-grand_parent: Lessons 
+parent: Lesson 3 - Share Map
+grand_parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 3a - Lesson Name 
+# Lesson 3a - Web Maps and Project Packages
 
-A small description about the lesson.
+<!--A small description about the lesson.-->
 
 <details markdown="block" class="toc">
   <summary>
@@ -23,33 +21,37 @@ A small description about the lesson.
 </details>
 
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Share a web map
+- Share a map package
+- Share a project package
 
-## Lesson Video
-The following video demonstrates each of the steps outlined below in text.
+## Share a Web Map
+<!--The following video demonstrates each of the steps outlined below in text.-->
 
+<!--
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
 [View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false)
+-->
 
-## Sub-Topic
+## Share a Map Package
 
-Include a text version of your topic here.
+<!--Include a text version of your topic here.-->
 
-## Another sub-topic
+## Share a Project Package
 
-Include text here.
+<!--Include a text version of your topic here.-->
 
-## Another sub-topic
+## Summary
 
-Include text here.
+This lesson covered:
 
-## Key Points / Summary
-
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
+- How to share a map to ArcGIS Online, which can be shared, embedded in a website, or used to create a web application.
+- How to share a map or project package for others to use and modify in ArcGIS Pro. 
 
 ## Additional Resources (optional)
 
-- Here, you can list some additional resources the student can access to learn more about this lesson.
+Below are links to additional resources that expand or build upon the information above:
+
+- [Share a map](https://learn.arcgis.com/en/projects/share-a-map/)
+- [Create an app](https://learn.arcgis.com/en/projects/create-an-app/)
+- [Convert a static map into a web map](https://learn.arcgis.com/en/projects/convert-a-static-map-into-a-web-app/)
