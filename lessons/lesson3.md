@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lesson 3 - Lesson Name
+title: Lesson 3 - Share Map
 nav_order: 3
 parent: Lessons
 has_children: true
