@@ -37,6 +37,7 @@ The text version of this lesson is available through the ArcGIS Pro [Quick Start
 ## Available File Types
 In addition to the JPEG file format, there are a number of other formats available, including those listed below. 
 For a complete list of export file types, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/export-a-map-or-layout.htm#ESRI_SECTION1_F4284E79E1A743468186BE49528275A9). 
+
 | File Format      | Link for More Information |
 | ---------------- | ------------------------- |
 | AIX (Adobe Illustrator Exchange) | [Export to AIX](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/aix-export.htm) |
