@@ -42,11 +42,11 @@ First things first, sign in to ArcGIS Pro.
 
 On the Home tab of the start page are a list of recent projects and templates as well as a list of new projects that can be created from a template.
 
-<img src="img/Start_Page.PNG" alt="ArcGIS pro start page" width="50%">
+<img src="img/Start_Page.PNG" alt="ArcGIS pro start page" width="100%">
 
 The Learning Resources tab provides direct access to various tutorials and resources. This can also be accessed from the Project menu in a project or from the Settings tab, which allows you to access and change the configuration settings.
 
-<img src="img/Learning_Resources.PNG" alt="ArcGIS pro start page" width="50%">
+<img src="img/Learning_Resources.PNG" alt="ArcGIS pro start page" width="100%">
 
 <!-- A video for your lesson (if applicable) -->
 ## Introducing ArcGIS Pro
