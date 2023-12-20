@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Lesson 2 - Lesson Name
+title: Lesson 2 - Symbolizing Data
 nav_order: 2
 parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 2 - Lesson Name 
+# Lesson 2 - Symbolizing Data 
 
-A small description about the lesson.
+This lesson will go into further detail about the symbology options for different types of data.
 
 <details markdown="block" class="toc">
   <summary>
@@ -20,33 +20,30 @@ A small description about the lesson.
 </details>
 
 ## Lesson Objectives
-- A learning objective.
-- Second learning objective.
-- Another learning objective.
+- Switch between basemaps in ArcGIS Pro.
+- Learn about projections and coordinate systems and how they may affect maps.
+- Get to know different symbology options based on different data types - numeric and thematic or categorical.
 
-## Lesson Video
-The following video demonstrates each of the steps outlined below in text.
+## Basemaps
 
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
-[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false)
+<!-- Include a text version of your topic here. -->
 
-## Sub-Topic
+## Projections and Coordinate Systems
 
-Include a text version of your topic here.
+<!-- Include a text version of your topic here. -->
 
-## Another sub-topic
+## Symbology
 
-Include text here.
+<!-- Include a text version of your topic here. -->
 
-## Another sub-topic
+### Thematic / Categorical Data
+### Numeric Data
 
-Include text here.
+## Summary
 
-## Key Points / Summary
-
-- Remind the student about what they just learned.
-- You can also note down any key information to keep in mind.
+<!-- - Remind the student about what they just learned.
+- You can also note down any key information to keep in mind. -->
 
 ## Additional Resources (optional)
-
-- Here, you can list some additional resources the student can access to learn more about this lesson.
+<!--
+- Here, you can list some additional resources the student can access to learn more about this lesson. -->
