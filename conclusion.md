@@ -20,9 +20,11 @@ You should now be able to:
 - Create a map using ArcGIS Pro
 - Access additional help and resources
 
+For more information and any questions, please [book an appointment](https://libcal.mcmaster.ca/appointments/gis) or send an email to [GIS Services](mailto:libgis@mcmaster.ca).
+To learn more about ArcGIS, take a look at the links below.
+
 <!-- This is where you can add additional resources for your readers. -->
 # Additional Resources
-To learn more, take a look at the links below.
 
 ## Guides
 - [ArcGIS at McMaster University Library Guide](https://arcgis-mcmaster.hub.arcgis.com/)
