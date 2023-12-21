@@ -42,7 +42,7 @@ ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a
   
 | Mercator Projection | Lambert Conformal Conic Projection |
 |--------------|---------------|
-| <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
+| <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
 
 ## Symbology
 
