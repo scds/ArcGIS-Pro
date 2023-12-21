@@ -39,8 +39,10 @@ ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a
 <iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=false&theme=light"></iframe>
 
 ## Projections and Coordinate Systems
-
-<!-- Include a text version of your topic here. -->
+  
+| Mercator Projection | Lambert Conformal Conic Projection |
+|--------------|---------------|
+| <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
 
 ## Symbology
 
