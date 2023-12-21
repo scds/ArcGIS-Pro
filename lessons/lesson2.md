@@ -36,7 +36,7 @@ ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a
 > 
 > Zoom in and out on the map to see how the basemap changes at different scales.                <!-- Optional Additional Text -->
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=true&theme=light"></iframe>
+<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=false&theme=light"></iframe>
 
 ## Projections and Coordinate Systems
 
