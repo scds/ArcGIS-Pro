@@ -3,18 +3,13 @@ layout: default
 title: Preparation
 nav_order: 2
 ---
-<!-- 
-(OPTIONAL) This will be the page going over any installation or registration requirements.
-Add, edit, or remove any content below for the workshop in question. 
--->
+
+This hands-on workshop uses ArcGIS Pro. Please download and install the software in advance of the workshop to be able to participate in it to the fullest extent.
+
+If you have an existing ArcGIS account, skip forward to the next section.
 
 # Workshop preparation 
 
-<!-- 
-Seperate preparation into account creation, file downloads, and software downloads.
-However, you can format this as you wish.
-An example is provided below.
--->
 ## 1. Create an ArcGIS account
 Navigate to the [ArcGIS Software Request form](https://mcmaster-ca.libwizard.com/f/arcgis) and sign up for an account if you don't already have one.
 
@@ -23,12 +18,9 @@ Navigate to the [ArcGIS Software Request form](https://mcmaster-ca.libwizard.com
 > Use of the software is restricted to teaching, learning, and scholarly research at McMaster.
 
 ## 2. Install the software
-This hands-on workshop uses ArcGIS Pro. Please download and install the software in advance of the workshop to be able to participate in it to the fullest extent.
+Unfortunately, Mac OS is not a supported operating system for ArcGIS Pro. Follow the steps in the installation guide, below, to install the software on your PC.
 
 ### Windows Installation
-<!-- Usually, linking to an installation guide on the official website of the software is enough, no need to explain how to install. -->
-<!-- If there are additional steps not covered in the installation guide, include them -->
-Unfortunately, Mac OS is not a supported operating system for ArcGIS Pro. Follow the steps in the installation guide, below, to install the software on your PC.
 
 [Install ArcGIS Pro](https://pro.arcgis.com/en/pro-app/3.1/get-started/install-and-sign-in-to-arcgis-pro.htm#ESRI_SECTION1_3D4C69C5FA7740A0B2F5BD74DDF24C30)
 
