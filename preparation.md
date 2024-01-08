@@ -4,11 +4,11 @@ title: Preparation
 nav_order: 2
 ---
 
+# Workshop preparation 
+
 This hands-on workshop uses ArcGIS Pro. Please download and install the software in advance of the workshop to be able to participate in it to the fullest extent.
 
 If you have an existing ArcGIS account, skip forward to the next section.
-
-# Workshop preparation 
 
 ## 1. Create an ArcGIS account
 Navigate to the [ArcGIS Software Request form](https://mcmaster-ca.libwizard.com/f/arcgis) and sign up for an account if you don't already have one.
