@@ -27,16 +27,20 @@ This lesson will go into further detail about the symbology options for differen
 ## Basemaps
 The first option for map symbology are basemaps. This is one of the simplest ways of styling a map.
 
-ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a default topographic map, imagery, feature specific options, as well as simple grayscale maps. These can be seen in the embedded ArcGIS Online map below.
+ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a default topographic map, imagery, feature specific options, as well as simple grayscale maps. These can be seen in the embedded ArcGIS Online map, or by clicking the Basemap button in ArcGIS Pro, shown below.
+
+<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=false&theme=light"></iframe>
+
+<img src="img/ArcGIS_Pro_Basemaps.png" alt="Basemap options in ArcGIS Pro">
 
 {: .new-title }
 > Activity 1                                           <!-- This is where you edit the title -->
 > 
-> Explore the available basemap options by using the basemap selector (button with four squares) to switch between basemaps.                   <!-- Question Text -->
+> Explore the available basemap options in the above map by using the basemap selector (button with four squares) to switch between basemaps.                   <!-- Question Text -->
+> 
+> In ArcGIS Pro, open the project from the previous lesson and try switching between basemaps to see how they appear with data overlaid.
 > 
 > Zoom in and out on the map to see how the basemap changes at different scales.                <!-- Optional Additional Text -->
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=false&theme=light"></iframe>
 
 ## Projections and Coordinate Systems
   
