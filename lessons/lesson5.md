@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Lesson 3 - Share Map
-nav_order: 3
+title: Lesson 5 - Share Map
+nav_order: 5
 parent: Lessons
 has_children: true
 blank: true
