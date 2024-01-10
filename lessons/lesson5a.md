@@ -1,13 +1,13 @@
 ---
 layout: default
-title: Lesson 3a - Web Maps and Project Packages
+title: Lesson 5a - Web Maps and Project Packages
 nav_order: 1
-parent: Lesson 3 - Share Map
+parent: Lesson 5 - Share Map
 grand_parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 3a - Web Maps and Project Packages
+# Lesson 5a - Web Maps and Project Packages
 
 <!--A small description about the lesson.-->
 
