@@ -8,7 +8,7 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 2 - Basemaps
 
-<!-- This lesson will go into further detail about the symbology options for different types of data.
+The lessons following the introduction will walk through the process of creating and sharing maps, starting with selecting a basemap.
 
 <details markdown="block" class="toc">
   <summary>
@@ -21,24 +21,45 @@ parent: Lessons
 
 ## Lesson Objectives
 - Switch between basemaps in ArcGIS Pro.
-- Learn about projections and coordinate systems and how they may affect maps.
-- Get to know different symbology options based on different data types - numeric and thematic or categorical.
--->
+- Learn where to find additional basemaps, including ones built with accessibility in mind.
+- Learn how to make your own basemap.
 
 ## Basemaps
-The first option for map symbology are basemaps. This is one of the simplest ways of styling a map.
+One of the first ways to symbolize your map is to choose a basemap which provides a background and context for your data.
 
-ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a default topographic map, imagery, feature specific options, as well as simple grayscale maps. These can be seen in the embedded ArcGIS Online map, or by clicking the Basemap button in ArcGIS Pro, shown below.
-
-<iframe width="100%" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Basemap Activity" src="//mcmaster.maps.arcgis.com/apps/Embed/index.html?webmap=fb43f01ab1a84c5c92ffbb100a5ffb10&extent=-80.7166,42.9407,-79.0302,43.5698&home=true&zoom=true&previewImage=false&scale=true&search=true&searchextent=true&basemap_gallery=true&disable_scroll=false&theme=light"></iframe>
+### Basemap Options
+ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a default topographic map, imagery, feature specific options, as well as simple grayscale maps. These can be seen by clicking the Basemap button in ArcGIS Pro, as shown below.
 
 <img src="img/ArcGIS_Pro_Basemaps.png" alt="Basemap options in ArcGIS Pro" width="40%">
 
 {: .new-title }
-> Activity 1                                           <!-- This is where you edit the title -->
+> Activity
 > 
-> Explore the available basemap options in the above map by using the basemap selector (button with four squares) to switch between basemaps.                   <!-- Question Text -->
+> In ArcGIS Pro, open the project from the previous lesson and try switching between basemaps in the Central Wellington map to see how they appear with the data.
 > 
-> In ArcGIS Pro, open the project from the previous lesson and try switching between basemaps to see how they appear with data overlaid.
-> 
-> Zoom in and out on the map to see how the basemap changes at different scales.                <!-- Optional Additional Text -->
+> Zoom in and out on the map to see how the basemap changes at different scales.
+>
+> Where multiple layers (e.g. base, reference, hillshade) make up the basemap, try toggling on and off each of the basemap layers to see the changes.
+
+### Accessible Formats
+
+
+### Make Your Own
+
+
+## Summary
+<!-- This lesson covered: 
+
+- How to sign in to ArcGIS Online (and stay signed in)
+- Navigating the menus and panes, and accessing different tools -->
+
+## Additional Resources
+<!-- Below are some ArcGIS Pro introductory resources:
+
+- [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/pro-quickstart-tutorials.htm)
+- Learning the Basics
+    - [Introducing ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm)
+    - [Navigate Maps and Scenes](https://pro.arcgis.com/en/pro-app/latest/get-started/navigate-your-data.htm)
+ - [Learn ArcGIS Tutorial Gallery](https://learn.arcgis.com/en/gallery/)
+ - [Get familiar with ArcGIS Pro (video series)](https://learn.arcgis.com/en/paths/get-familiar-with-arcgis-pro/)
+ - [ArcGIS Pro Video Library](https://mediaspace.esri.com/channel/ArcGIS+Pro/238049152) -->
