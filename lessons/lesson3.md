@@ -8,22 +8,17 @@ parent: Lessons
 {: .no_toc}  
 # Lesson 3 - Coordinate Reference Systems 
 
-<!-- This lesson will go into further detail about the symbology options for different types of data.
-
 <details markdown="block" class="toc">
   <summary>
     Table of Contents
   </summary>
   {: .text-delta }
 - TOC
-{:toc}
-</details>
+{:toc}</details>
 
 ## Lesson Objectives
-- Switch between basemaps in ArcGIS Pro.
-- Learn about projections and coordinate systems and how they may affect maps.
-- Get to know different symbology options based on different data types - numeric and thematic or categorical.
--->
+- Be introduced to the concept of geographic and projected coordinate systems and why they're important.
+- Learn to convert datasets between two coordinate systems.
 
 ## Projections and Coordinate Systems
 
@@ -34,42 +29,48 @@ systems.
 
 Geographic coordinate systems express locations as angles from a point. They are made up of a series of *meridians* - lines of longitudes which converge at the poles, and *parallels* - lines of latitudes that run parallel and never meet.
 
-<img src="img/GCS_slide.PNG" alt="Geographic coordinate systems" width="60%" align="center">
+| <img src="img/GCS_slide.PNG" alt="Geographic coordinate systems" width="60%" align="center" > |
+|-|
 
 ### Projected Coordinate Systems
 
 Projected coordinate systems are a method of representing the earth in two dimensions. By projecting a round earth onto a flat surface, you introduce distortion. 
 Locations in this case are represented as distances from a reference point. 
+
 The example shown on this slide is the Mercator projection. As shown by the red grid lines, the areas of least distortion are closer to the equator, increasing as you get closer to the poles. 
 
-<img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="60%" align="center">
+| <img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="60%" align="center"> |
+|-|
 
 ### Why is this important?
 
 Depending on which geographic or projected coordinate system you use, you can visually misrepresent your data which may also cause errors in measurement or result in datasets being offset from their locations and one another.
 
 {: .new-title }
-> Activity 2                                           
+> Activity                                           
 > 
 > The following two maps show the provincial and territorial boundaries of Canada using two different projected coordinate systems - Mercator and Lambert Conformal Conic.
 >
 > Examine the maps and make note of differences between the two.
 
-| Mercator Projection | Lambert Conformal Conic Projection |
+| Web Mercator Projection | Lambert Conformal Conic Projection |
 |--------------|---------------|
 | <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
+| [View the original Mercator image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_Mercator_Map.png) | [View the original Lambert image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_LCC_Map_Zoom.png) |
 
-## Symbology
+### Map Properties
 
-<!-- Include a text version of your topic here. -->
 
-### Thematic / Categorical Data
-### Numeric Data
+
+### Project Data
+
+
 
 ## Summary
-
-<!-- - Remind the student about what they just learned.
-- You can also note down any key information to keep in mind. -->
+This lesson covered: 
+- An introduction to the concept and importance of coordinate reference systems, and geographic and projected coordinate systems.
+- How to choose the coordinate system for your map.
+- How to convert, or project, data between coordinate systems.
 
 ## Additional Resources (optional)
 <!--
