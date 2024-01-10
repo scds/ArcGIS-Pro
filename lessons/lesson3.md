@@ -14,7 +14,8 @@ parent: Lessons
   </summary>
   {: .text-delta }
 - TOC
-{:toc}</details>
+{:toc}
+</details>
 
 ## Lesson Objectives
 - Be introduced to the concept of geographic and projected coordinate systems and why they're important.
