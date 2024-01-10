@@ -37,6 +37,9 @@ First things first, sign in to ArcGIS Pro.
 - Open the ArcGIS Pro application.
 - To keep signed in, and prevent you from having to enter your credentials each time you start the application, check the "Sign in automatically" box.
 - Enter your ArcGIS credentials and click Sign In.
+
+{: .highlight }
+Important note: The ArcGIS username and password are separate from your MacID and password.
   
 <img src="img/Signing_In.PNG" alt="ArcGIS pro sign in window" width="50%">
 
@@ -53,10 +56,16 @@ The Learning Resources tab provides direct access to various tutorials and resou
 As a quick introduction, the following video from Esri introduces ArcGIS Pro using a project package from ArcGIS Online.
 The text version of the tutorial can be found in the [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm).
 
+{: .new-title }
+> Activity
+> 
+> Follow along with the video by repeating the steps in ArcGIS Pro.
+> 
+
 <!-- Place iframe of video here -->
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_22wi7jam/uiConfId/49806163/pbc/238049152/st/0" title="Introducing ArcGIS Pro"></iframe>
 
-[View original here.](https://mediaspace.esri.com/media/t/1_22wi7jam)
+[View original video here](https://mediaspace.esri.com/media/t/1_22wi7jam)
 
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 
