@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lesson 2 - Symbolizing Data
-nav_order: 2
+title: Lesson 3 - Coordinate Reference Systems
+nav_order: 3
 parent: Lessons
 ---
 
 {: .no_toc}  
-# Lesson 2 - Symbolizing Data 
+# Lesson 3 - Coordinate Reference Systems 
 
 This lesson will go into further detail about the symbology options for different types of data.
 
