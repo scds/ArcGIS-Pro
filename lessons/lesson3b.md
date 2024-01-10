@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Lesson 3b - Print Map
+title: Lesson 5b - Print Map
 nav_order: 2
-parent: Lesson 3 - Share Map
+parent: Lesson 5 - Share Map
 grand_parent: Lessons
 ---
 {: .no_toc}  
-# Lesson 3b - Print Map to PDF or Image File
+# Lesson 5b - Print Map to PDF or Image File
 
 Another way to share your map is to compose and print a map layout. This lesson covers how to print your map layout to PDF or image file format.
 
