@@ -79,7 +79,7 @@ Lastly, you can create custom basemaps by converting an existing map to a basema
 > 
 > You should now see the Central Wellington Basemap (Central Wellington_BM) listed in your Basemap Gallery and within the Maps folder of your project.
 
-<img src="img/convert_to_basemap.png" alt="Convert to Basemap function" width="30%">
+<img src="img/convert_to_basemap.png" alt="Convert to Basemap function" width="40%">
 
 ### Save your Project
 
