@@ -21,7 +21,7 @@ parent: Lessons
 - Be introduced to the concept of geographic and projected coordinate systems and why they're important.
 - Learn to convert datasets between two coordinate systems.
 
-## Projections and Coordinate Systems
+## Coordinate Reference Systems
 
 Coordinate reference systems are a way of referencing the location of features on the earth's surface. There are two methods – geographic coordinate systems and projected coordinate 
 systems.
@@ -56,6 +56,8 @@ Depending on which geographic or projected coordinate system you use, you can vi
 |--------------|---------------|
 | <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
 | [View the original Mercator image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_Mercator_Map.png) | [View the original Lambert image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_LCC_Map_Zoom.png) |
+
+## In ArcGIS Pro
 
 ### Map Properties
 
