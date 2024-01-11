@@ -34,16 +34,19 @@ Geographic coordinate systems express locations as angles from a point. They are
 
 ### Projected Coordinate Systems
 
-Projected coordinate systems are a method of representing the earth in two dimensions. By projecting a round earth onto a flat surface, you introduce distortion. 
-Locations in this case are represented as distances from a reference point. 
+Projected coordinate systems are a method of representing the earth in two dimensions. Locations in this case are represented as distances from a reference point. 
 
-The example shown on this slide is the Mercator projection. As shown by the red grid lines, the areas of least distortion are closer to the equator, increasing as you get closer to the poles. 
+By projecting a round earth onto a flat surface, you introduce distortion. The example shown on this slide is the Mercator projection. As shown by the red grid lines, the areas of least distortion are closer to the equator, increasing as you get closer to the poles. 
 
 > <img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="80%">
 
+For a comprehensive list of different projections and types, along with their properties, suitable extents, location, orientation, and purpose, see the following chart from Esri, adapted from a USGS map projections poster.
+
+[Quick Notes on Map Projections](https://www.arcgis.com/sharing/rest/content/items/e8b85d508d2c4f21a3dec4e52dc7d9c4/data)
+
 ### Why is this important?
 
-Depending on which geographic or projected coordinate system you use, you can visually misrepresent your data which may also cause errors in measurement or result in datasets being offset from their locations and one another.
+Choosing a coordinate system that matches your study area and intended use will limit unintended distortion and misrepresentation or misinterpretation of the map. Take for example these two maps of Canada.
 
 {: .new-title }
 > Activity                                           
@@ -59,7 +62,13 @@ Depending on which geographic or projected coordinate system you use, you can vi
 
 ## In ArcGIS Pro
 
-### Map Properties
+The activities in the following sections will use the Map Projections Project Package from Esri, available at the following link.
+
+[Map Projections Project Package]() (direct download)
+
+This project package is used in the [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/) tutorial from Esri, available through the [Learn ArcGIS website](https://learn.arcgis.com/en/gallery/).
+
+### Map Properties: Coordinate Systems
 
 
 
@@ -74,5 +83,7 @@ This lesson covered:
 - How to convert, or project, data between coordinate systems.
 
 ## Additional Resources (optional)
-<!--
-- Here, you can list some additional resources the student can access to learn more about this lesson. -->
+Portions of the content of this lesson were drawn from the Esri tutorial *Choose the right projection*. 
+
+For more information on projection types and the properties of different projections that will help you decide which one is best for your application, see - [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/).
+
