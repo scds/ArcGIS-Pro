@@ -30,7 +30,7 @@ systems.
 
 Geographic coordinate systems express locations as angles from a point. They are made up of a series of *meridians* - lines of longitudes which converge at the poles, and *parallels* - lines of latitudes that run parallel and never meet.
 
-> <img src="img/GCS_slide.PNG" alt="Geographic coordinate systems" width="60%">
+> <img src="img/GCS_slide.PNG" alt="Geographic coordinate systems" width="70%">
 
 ### Projected Coordinate Systems
 
@@ -39,7 +39,7 @@ Locations in this case are represented as distances from a reference point.
 
 The example shown on this slide is the Mercator projection. As shown by the red grid lines, the areas of least distortion are closer to the equator, increasing as you get closer to the poles. 
 
-> <img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="60%" align="center">
+> <img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="70%">
 
 ### Why is this important?
 
