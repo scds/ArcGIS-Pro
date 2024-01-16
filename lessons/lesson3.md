@@ -70,11 +70,11 @@ This project package is used in the [Choose the right projection](https://learn.
 
 ### Map Properties: Coordinate Systems
 
+<!-- Within ArcGIS Pro, you can change both the coordinate system of the map as well as the data. This first activity will show how to change the coordinate system of the map through the *Map Properties*.
 
+Using the *Changes in water storage* map from the Map Projections Project Package, -->
 
 ### Project Data
-
-
 
 ## Summary
 This lesson covered: 
@@ -83,7 +83,7 @@ This lesson covered:
 - How to convert, or project, data between coordinate systems.
 
 ## Additional Resources (optional)
-Portions of the content of this lesson were drawn from the Esri tutorial *Choose the right projection*. 
+Portions of this lesson were drawn from the Esri tutorial *Choose the right projection*. 
 
-For more information on projection types and the properties of different projections that will help you decide which one is best for your application, see - [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/).
+For more information on projection types and the properties of different projections that will help you decide which one is best for your application, see - [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/). This tutorial will also show how to modify existing projected coordinate systems and create a custom one.
 
