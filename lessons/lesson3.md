@@ -93,7 +93,18 @@ Selecting the coordinate system in the map properties only affects how the map i
 
 ### Project Data
 
+<!-- It's best to ensure all datasets in your map are in the same coordinate system, appropriate for your analysis.
 
+To change the coordinate system of vector data, use the *Project* tool found in the Data Management toolbox. This tool can be accessed in a couple ways:
+- Searching the Geoprocessing toolbox for the Project tool
+- Navigating through the toolboxes to browse for the Project tool
+
+If the geoprocessing pane isn't open, click the View tab and select the Geoprocessing button.
+
+{: .new-title }
+> Activity                                           
+> 
+> Change the coordinate system of the *World Continents* layer to match that of the map. -->
 
 ## Summary
 This lesson covered: 
