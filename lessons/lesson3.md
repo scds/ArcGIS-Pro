@@ -99,7 +99,7 @@ To change the coordinate system of vector data, use the *Project* tool found in 
 
 1. Search for the Project tool in the Geoprocessing pane
 
-<img src="img/Search_Project.PNG" alt="Search for Project tool" width="30%">
+<img src="img/Search_Project.PNG" alt="Search for Project tool" width="40%">
 
 2. Browse the toolbox for the Project tool found under Data Management
 
@@ -107,19 +107,16 @@ To change the coordinate system of vector data, use the *Project* tool found in 
 
 If the geoprocessing pane isn't open, click the View tab and select the Geoprocessing button.
 
-<img src="img/Geoprocessing_Pane.png" alt="Geoprocessing pane in view tab" width="40%">
+<img src="img/Geoprocessing_Pane.png" alt="Geoprocessing pane in view tab" width="50%">
 
 {: .new-title }
 > Activity                                           
 > 
 > Change the coordinate system of the *World Continents* layer to match that of the map.
 
-<img src="img/Project_Tool.PNG" alt="Project tool" width="30%">
-
-Where: 
-- Input Dataset = the dataset being projected
-- Output Dataset = the resulting (projected) dataset
-- Output Coordinate System = the new coordinate system
+|Project Tool|Parameters|
+|---|---|
+|<img src="img/Project_Tool.PNG" alt="Project tool" width="40%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
 
 ## Summary
 This lesson covered: 
