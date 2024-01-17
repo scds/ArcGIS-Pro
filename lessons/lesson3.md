@@ -116,7 +116,7 @@ If the geoprocessing pane isn't open, click the View tab and select the Geoproce
 
 |Project Tool|Parameters|
 |---|---|
-|<img src="img/Project_Tool.PNG" alt="Project tool" width="60%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
+|<img src="img/Project_Tool.PNG" alt="Project tool" width="70%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
 
 ## Summary
 This lesson covered: 
