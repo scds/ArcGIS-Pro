@@ -76,7 +76,7 @@ Within the map properties, you can see the current coordinate system and search 
 
 You can also add coordinate systems to a list of favourites by clicking the star symbol.
 
-<img src="img/Map_Properties.png" alt="Map properties dialog box" width="40%">
+<img src="img/Map_Properties.png" alt="Map properties dialog box" width="60%">
 
 {: .new-title }
 > Activity                                           
@@ -85,7 +85,7 @@ You can also add coordinate systems to a list of favourites by clicking the star
 > 
 > Explore the map to see the changes.
 
-<img src="img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="40%">
+<img src="img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="60%">
 
 This projections is particularly useful for thematic maps at the global scale where areas are preserved.
 
