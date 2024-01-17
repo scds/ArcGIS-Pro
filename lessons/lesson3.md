@@ -114,9 +114,12 @@ If the geoprocessing pane isn't open, click the View tab and select the Geoproce
 > 
 > Change the coordinate system of the *World Continents* layer to match that of the map.
 
-|Project Tool|Parameters|
-|---|---|
-|<img src="img/Project_Tool.PNG" alt="Project tool" width="50%">|Where: <ul><li>Input Dataset = the dataset being projected</li><li>Output Dataset = the resulting (projected) dataset</li><li>Output Coordinate System = the new coordinate system</li></ul>
+<img src="img/Project_Tool.PNG" alt="Project tool" width="30%">
+
+Where: 
+- Input Dataset = the dataset being projected
+- Output Dataset = the resulting (projected) dataset
+- Output Coordinate System = the new coordinate system
 
 ## Summary
 This lesson covered: 
