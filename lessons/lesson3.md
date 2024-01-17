@@ -87,7 +87,7 @@ You can also add coordinate systems to a list of favourites by clicking the star
 
 <img src="img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="60%">
 
-This projections is particularly useful for thematic maps at the global scale where areas are preserved.
+This projection is particularly useful for thematic maps at the global scale where areas are preserved.
 
 Selecting the coordinate system in the map properties only affects how the map is displayed, it doesn't transform the coordinate system of the data.
 
@@ -97,11 +97,11 @@ It's best to ensure all datasets in your map are in the same coordinate system, 
 
 To change the coordinate system of vector data, use the *Project* tool found in the Data Management toolbox. This tool can be accessed in a couple ways:
 
-1. Search for the Project tool in the Geoprocessing pane
+- Search for the Project tool in the Geoprocessing pane
 
 <img src="img/Search_Project.PNG" alt="Search for Project tool" width="40%">
 
-2. Browse the toolbox for the Project tool found under Data Management
+- Browse the toolbox for the Project tool found under Data Management
 
 <img src="img/Project_Data_Management_Toolbox.png" alt="Project tool found in Data Management Toolbox" width="30%">
 
@@ -116,7 +116,7 @@ If the geoprocessing pane isn't open, click the View tab and select the Geoproce
 
 |Project Tool|Parameters|
 |---|---|
-|<img src="img/Project_Tool.PNG" alt="Project tool" width="40%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
+|<img src="img/Project_Tool.PNG" alt="Project tool" width="60%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
 
 ## Summary
 This lesson covered: 
