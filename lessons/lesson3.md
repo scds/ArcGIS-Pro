@@ -64,17 +64,36 @@ Choosing a coordinate system that matches your study area and intended use will 
 
 The activities in the following sections will use the Map Projections Project Package from Esri, available at the following link.
 
-[Map Projections Project Package]() (direct download)
+[Map Projections Project Package](https://www.arcgis.com/sharing/rest/content/items/3980eb073a294a51b6a809abc661e43f/data) (direct download)
 
 This project package is used in the [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/) tutorial from Esri, available through the [Learn ArcGIS website](https://learn.arcgis.com/en/gallery/).
 
 ### Map Properties: Coordinate Systems
 
-<!-- Within ArcGIS Pro, you can change both the coordinate system of the map as well as the data. This first activity will show how to change the coordinate system of the map through the *Map Properties*.
+To change the coordinate system of the map, right-click the map in the Contents pane, select Properties then Coordinate System.
 
-Using the *Changes in water storage* map from the Map Projections Project Package, -->
+Within the map properties, you can see the current coordinate system and search for, or browse to, a different coordinate system.
+
+You can also add coordinate systems to a list of favourites by clicking the star symbol.
+
+<img src="img/Map_Properties.png" alt="Map properties dialog box" width="40%">
+
+{: .new-title }
+> Activity                                           
+> 
+> Either by browsing or using the search bar, change the coordinate system of the *Change in water storage* map to the Equal Earth projected coordinate system as shown in the image below.
+> 
+> Explore the map to see the changes.
+
+<img src="img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="40%">
+
+This projections is particularly useful for thematic maps at the global scale where areas are preserved.
+
+Selecting the coordinate system in the map properties only affects how the map is displayed, it doesn't transform the coordinate system of the data.
 
 ### Project Data
+
+
 
 ## Summary
 This lesson covered: 
