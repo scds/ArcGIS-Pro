@@ -26,13 +26,19 @@ Another way to share your map is to compose and print a map layout. This lesson 
 ## Map Layouts
 Map layouts are used to design the map for printing or publication and include map elements such as a title, scale bar, north arrow, legend, and data sources. 
 
-The following video guides you through the process of creating, exporting, and printing a map layout.
+The following video guides you through the process of creating, exporting, and printing a map layout. The text version of this lesson is available through the ArcGIS Pro [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm).
 
-The text version of this lesson is available through the ArcGIS Pro [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm).
+{: .new-title }
+> Activity                                           
+> 
+> Follow along with the video in ArcGIS Pro, using the *Make a Layout* project from ArcGIS Online.
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/EhE55ZtrJlk" title="Make a layout in ArcGIS Pro"></iframe>
 
 [Watch on YouTube](https://www.youtube.com/embed/EhE55ZtrJlk)
+
+## Print Settings
+For more information about the print options, such as size and output quality, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/print-a-map-or-layout.htm#ESRI_SECTION1_2EB761C8C40646F39C5F7A5F4858759A).
 
 ## Available File Types
 In addition to the JPEG file format, there are a number of other formats available, including those listed below. 
@@ -46,9 +52,6 @@ For a complete list of export file types, see the [ArcGIS Pro documentation](htt
 | PNG (Portable Network Graphics) | [Export to PNG](https://pro.arcgis.com/en/pro-app/3.2/help/sharing/overview/png-export.htm) |
 | SVG (Scalable Vector Graphics) | [Export to SVG](https://pro.arcgis.com/en/pro-app/3.2/help/sharing/overview/svg-or-svgz-export.htm) |
 | TIFF (Tagged Image File Format) | [Export to TIFF](https://pro.arcgis.com/en/pro-app/3.2/help/sharing/overview/tiff-export.htm) |
-
-## Print Settings
-For more information about the print options, such as size and output quality, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/print-a-map-or-layout.htm#ESRI_SECTION1_2EB761C8C40646F39C5F7A5F4858759A).
 
 ## Summary
 After completing the above lesson, you should be able to:
