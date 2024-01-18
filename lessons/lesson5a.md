@@ -8,8 +8,9 @@ grand_parent: Lessons
 
 {: .no_toc}  
 # Lesson 5a - Web Maps and Project Packages
+Once your map has been completed, it can be shared with others in a few ways.
 
-<!--A small description about the lesson.-->
+This lesson will walk through the process of sharing maps as web maps or project packages.
 
 <details markdown="block" class="toc">
   <summary>
@@ -22,34 +23,27 @@ grand_parent: Lessons
 
 ## Lesson Objectives
 - Share a web map
-- Share a map package
 - Share a project package
 
 ## Share a Web Map
-<!--The following video demonstrates each of the steps outlined below in text.-->
+<!-- Using a map from a previous lesson, or the *Share a web map v310* from ArcGIS Online, following 
 
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false"></iframe>
-[View original here.](https://echo360.ca/media/a65689c0-c35c-4f33-9c12-f0ac97883f54/public?autoplay=false&automute=false)
+<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://youtu.be/RUHOf6P6Bl0" title="Share a web map in ArcGIS Pro"></iframe>
+
+[View original video here](https://youtu.be/RUHOf6P6Bl0)
 -->
-
-## Share a Map Package
-
-<!--Include a text version of your topic here.-->
 
 ## Share a Project Package
 
-<!--Include a text version of your topic here.-->
+
 
 ## Summary
-
 This lesson covered:
 
 - How to share a map to ArcGIS Online, which can be shared, embedded in a website, or used to create a web application.
-- How to share a map or project package for others to use and modify in ArcGIS Pro. 
+- How to share a project package for others to use and modify in ArcGIS Pro. 
 
 ## Additional Resources (optional)
-
 Below are links to additional resources that expand or build upon the information above:
 
 - [Share a map](https://learn.arcgis.com/en/projects/share-a-map/)
