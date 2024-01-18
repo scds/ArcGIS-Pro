@@ -37,10 +37,10 @@ The following video guides you through the process of creating, exporting, and p
 
 [Watch on YouTube](https://www.youtube.com/embed/EhE55ZtrJlk)
 
-## Print Settings
+### Print Settings
 For more information about the print options, such as size and output quality, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/print-a-map-or-layout.htm#ESRI_SECTION1_2EB761C8C40646F39C5F7A5F4858759A).
 
-## Available File Types
+### Available File Types
 In addition to the JPEG file format, there are a number of other formats available, including those listed below. 
 For a complete list of export file types, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/export-a-map-or-layout.htm#ESRI_SECTION1_F4284E79E1A743468186BE49528275A9). 
 
