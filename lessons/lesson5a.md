@@ -26,12 +26,16 @@ This lesson will walk through the process of sharing maps as web maps or project
 - Share a project package
 
 ## Share a Web Map
-<!-- Using a map from a previous lesson, or the *Share a web map v310* from ArcGIS Online, following 
+Maps created in ArcGIS Pro can be shared to ArcGIS Online as an interactive web map. From there, they can be shared further with groups or the public, embedded in a website, or used to create an app. The following video shows the process of sharing a web map.
+
+{: .new-title }
+> Activity
+> 
+> Using a map from a previous lesson, or the *Share a web map v310* from ArcGIS Online, follow the steps in the video below.
 
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://youtu.be/RUHOf6P6Bl0" title="Share a web map in ArcGIS Pro"></iframe>
 
 [View original video here](https://youtu.be/RUHOf6P6Bl0)
--->
 
 ## Share a Project Package
 
