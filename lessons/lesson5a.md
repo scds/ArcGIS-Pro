@@ -33,7 +33,7 @@ Maps created in ArcGIS Pro can be shared to ArcGIS Online as an interactive web 
 > 
 > Using a map from a previous lesson, or the *Share a web map v310* from ArcGIS Online, follow the steps in the video below.
 
-<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://youtu.be/RUHOf6P6Bl0" title="Share a web map in ArcGIS Pro"></iframe>
+<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/RUHOf6P6Bl0?si=WOf79q9PNAVHqCZo" title="Share a web map in ArcGIS Pro"></iframe>
 
 [View original video here](https://youtu.be/RUHOf6P6Bl0)
 
