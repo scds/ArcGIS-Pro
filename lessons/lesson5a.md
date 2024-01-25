@@ -38,8 +38,22 @@ Maps created in ArcGIS Pro can be shared to ArcGIS Online as an interactive web 
 [View original video here](https://youtu.be/RUHOf6P6Bl0)
 
 ## Share a Project Package
+Another way to share a project is to create a project package. A project package includes all components of a project and can be saved to file or shared to ArcGIS Online. This allows for collaboration or creating a copy of the project as a backup.
 
+{: .new-title }
+> Activity
+> 
+> Following the steps below, or in Esri's [Share a project package](https://pro.arcgis.com/en/pro-app/3.1/help/sharing/overview/project-package.htm) documentation, share a project as a Project Package.
 
+In the Share tab, select Project. Choose to save the project either to file or upload to your ArcGIS account and fill out the required parameters.
+
+<img src="img/Project_Package.PNG" alt="Package Project tool" width="30%">
+
+Choose to Analyze the package to check for errors. If necessary, resolve the errors and re-run the analysis.
+
+Click Package to package the project.
+
+<img src="img/Project_Package_Analyze.PNG" alt="Analyze and package project" width="30%">
 
 ## Summary
 This lesson covered:
