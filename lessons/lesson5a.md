@@ -47,7 +47,7 @@ Another way to share a project is to create a project package. A project package
 
 In the Share tab, select Project. Choose to save the project either to file or upload to your ArcGIS account and fill out the required parameters.
 
-<img src="img/Project_Package.PNG" alt="Package Project tool" width="30%">
+<img src="img/Project_Package.PNG" alt="Package Project tool" width="40%">
 
 Choose to Analyze the package to check for errors. If necessary, resolve the errors and re-run the analysis.
 
