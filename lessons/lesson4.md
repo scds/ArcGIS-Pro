@@ -14,7 +14,8 @@ parent: Lessons
   </summary>
   {: .text-delta }
 - TOC
-{:toc}</details>
+{:toc}
+</details>
 
 ## Lesson Objectives
 
