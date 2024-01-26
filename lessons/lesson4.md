@@ -16,8 +16,11 @@ parent: Lessons
 - TOC
 {:toc}</details>
 
-## Symbology
+## Lesson Objectives
 
+- Learn to symbolize data by feature or data type.
+
+## Symbology
 There are several ways to symbolize or visualize data on a map based on feature type, quantitative, or qualitative values.
 
 Point symbols can be visualized using different colours, sizes, or icons.
@@ -34,6 +37,7 @@ When selecting the symbology ensure the symbols are clear and legible to the rea
 > Activity
 > 
 > Follow along with the video by repeating the steps in ArcGIS Pro.>
+> 
 
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/6ZqbKvOZ1lE?si=flCBGQOkO55V_EIv" title="Symbolize map layers in ArcGIS Pro"></iframe>
 
@@ -41,8 +45,11 @@ When selecting the symbology ensure the symbols are clear and legible to the rea
 
 The text version of the tutorial can be found in the [Documentation](https://pro.arcgis.com/en/pro-app/latest/get-started/symbolize-your-data.htm).
 
-## Additional Resources (optional)
+## Summary
+This lesson covered:
+- How to symbolize point, line, and polygon features based on values or themes.
 
+## Additional Resources (optional)
 Below are links to additional resources which go into more detail on map symbology:
 
 - [Cartographic creations in ArcGIS Pro](https://learn.arcgis.com/en/paths/cartographic-creations-in-arcgis-pro/) - Tutorial Series
