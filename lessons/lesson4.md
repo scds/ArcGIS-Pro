@@ -35,7 +35,6 @@ When selecting the symbology ensure the symbols are clear and legible to the rea
 > 
 > Follow along with the video by repeating the steps in ArcGIS Pro.>
 
-<!-- Place iframe of video here -->
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/6ZqbKvOZ1lE?si=flCBGQOkO55V_EIv" title="Symbolize map layers in ArcGIS Pro"></iframe>
 
 [View original video here](https://youtu.be/6ZqbKvOZ1lE)
