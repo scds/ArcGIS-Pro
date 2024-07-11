@@ -37,7 +37,7 @@ By the end of this workshop, you will:
 - Know where you can get additional help and resources
 
 <!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
-## Duration (optional)
+## Duration
 This module will take around 1 to 2 hours, however feel free to work at your own pace!
 
 ## Land Acknowledgement

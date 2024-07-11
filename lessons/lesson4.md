@@ -30,7 +30,7 @@ Polygons or areas can also be filled in with colours to represent numeric, thema
 
 |Point Symbology|Polygon Symbology|
 |----------|----------|
-|<img src="img/Point_Symbology.png" alt="Point symbology" width="70%">|<img src="img/Polygon_Symbology.png" alt="Polygon symbology" width="70%">|
+|<img src="../assets/img/Point_Symbology.png" alt="Point symbology" width="70%">|<img src="../assets/img/Polygon_Symbology.png" alt="Polygon symbology" width="70%">|
 
 When selecting the symbology ensure the symbols are clear and legible to the reader. This includes considerations for colour blindness. The View tab of ArcGIS Pro includes a colour vision simulator for different vision types. The [Colour Brewer](https://colorbrewer2.org/) tool (Cynthia Brewer, Mark Harrow, Pennsylvania State University) also suggests colour ranges based on the number of classes and nature of the data.
 

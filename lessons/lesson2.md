@@ -30,7 +30,7 @@ One of the first ways to symbolize your map is to choose a basemap which provide
 ### Basemap Options
 ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a default topographic map, imagery, feature specific options, as well as simple grayscale maps. These can be seen by clicking the Basemap button in ArcGIS Pro, as shown below.
 
-<img src="img/ArcGIS_Pro_Basemaps.png" alt="Basemap options in ArcGIS Pro" width="40%">
+<img src="../assets/img/ArcGIS_Pro_Basemaps.png" alt="Basemap options in ArcGIS Pro" width="40%">
 
 {: .new-title }
 > Activity
@@ -64,7 +64,7 @@ In addition to the basemaps in the Basemap Gallery, more basemaps can be found b
 
 | Enhanced Contrast Basemap | Accessible Gray Basemap |
 |--------------|---------------|
-| <img src="img/enhanced_basemaps.png" alt="Enhanced Contrast Basemap" width="75%"> | <img src="img/accessible_gray_basemaps.png" alt="Accessible Gray Basemap" width="75%"> |
+| <img src="../assets/img/enhanced_basemaps.png" alt="Enhanced Contrast Basemap" width="75%"> | <img src="../assets/img/accessible_gray_basemaps.png" alt="Accessible Gray Basemap" width="75%"> |
 
 ### Make Your Own
 
@@ -81,7 +81,7 @@ Lastly, you can create custom basemaps by converting an existing map to a basema
 > 
 > You should now see the Central Wellington Basemap (Central Wellington_BM) listed in your Basemap Gallery and within the Maps folder of your project.
 
-<img src="img/convert_to_basemap.png" alt="Convert to Basemap function" width="40%">
+<img src="../assets/img/convert_to_basemap.png" alt="Convert to Basemap function" width="40%">
 
 ### Save your Project
 
@@ -99,5 +99,5 @@ This lesson covered:
 ## Additional Resources
 If you're feeling adventurous and want to explore further customization of basemaps, below is a tutorial series from Esri.
 
-[Personalize your map with custom basemap styles](https://learn.arcgis.com/en/paths/personalize-your-maps-with-custom-basemap-styles/)
+- [Personalize your map with custom basemap styles](https://learn.arcgis.com/en/paths/personalize-your-maps-with-custom-basemap-styles/)
 (Learn ArcGIS Tutorial Gallery)

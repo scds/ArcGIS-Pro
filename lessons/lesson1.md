@@ -41,15 +41,15 @@ First things first, sign in to ArcGIS Pro.
 {: .highlight }
 Important note: The ArcGIS username and password are separate from your MacID and password.
   
-<img src="img/Signing_In.PNG" alt="ArcGIS pro sign in window" width="50%">
+<img src="../assets/img/Signing_In.PNG" alt="ArcGIS pro sign in window" width="50%">
 
 On the Home tab of the start page are a list of recent projects and templates as well as a list of new projects that can be created from a template.
 
-<img src="img/Start_Page.PNG" alt="ArcGIS pro start page" width="100%">
+<img src="../assets/img/Start_Page.PNG" alt="ArcGIS pro start page" width="100%">
 
 The Learning Resources tab provides direct access to various tutorials and resources. This can also be accessed from the Project menu in a project or from the Settings tab, which allows you to access and change the configuration settings.
 
-<img src="img/Learning_Resources.PNG" alt="ArcGIS pro start page" width="100%">
+<img src="../assets/img/Learning_Resources.PNG" alt="ArcGIS pro start page" width="100%">
 
 <!-- A video for your lesson (if applicable) -->
 ## Introducing ArcGIS Pro

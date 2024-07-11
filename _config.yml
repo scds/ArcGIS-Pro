@@ -1,13 +1,13 @@
 title: Intro to Making and Sharing Maps with ArcGIS Pro # *** Enter workshop title here 
-github_repo_url: "https://scds.github.io/ArcGIS-Pro/" # *** Enter workshop URL (in github pages) here
+github_repo_url: "https://scds.github.io/ArcGIS-Pro" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/ArcGIS-Pro/" # *** Enter the github URL for your repo
-ga_tracking: "" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
+ga_tracking: "G-HTFKKVJK6" # *** This needs to be set up in Google Analytics once you know the website URL (ask Jay to do this). Then the tracking code needs to be taken from Google Analytics and pasted here.  
 
 # This line appears in the footer. Use it to credit the people who created the workshop content, and those who set up the online pages. 
 # If you know some HTML, you can use HTML tags.
 # To create a link: <a href="PUT URL HERE">the text you want to show up</a>
 # Template: 'Module content created by <a href="LINK HERE">NAME</a> and <a href="LINK HERE">NAME</a>; edited for online use and online pages created by <a href="LINK HERE">NAME</a>.'
-credits: ''
+credits: 'Module content created by Christine Homuth; edited for online use and online pages created by Christine Homuth and <a href="https://multipixels.dev">Richie Motorgeanu</a>.'
 
 # DMDS Settings
 # subtitle: "This workshop is part of the Do More with Digital Scholarship (DMDS) series."
@@ -85,9 +85,9 @@ plugins:
 
 # Google Analytics Tracking
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
-license_url: "http://creativecommons.org/licenses/by/4.0/"
-license_name: "Creative Commons Attribution 4.0 International License"
-license_image_url: "https://i.creativecommons.org/l/by/4.0/88x31.png"
+license_url: "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+license_name: "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License"
+license_image_url: "https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png"
 
 # Callout titles an colors
 callouts_level: quiet # or loud

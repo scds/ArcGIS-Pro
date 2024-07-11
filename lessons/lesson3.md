@@ -30,7 +30,7 @@ systems.
 
 Geographic coordinate systems express locations as angles from a point. They are made up of a series of *meridians* - lines of longitudes which converge at the poles, and *parallels* - lines of latitudes that run parallel and never meet.
 
-> <img src="img/GCS_slide.PNG" alt="Geographic coordinate systems" width="80%">
+> <img src="../assets/img/GCS_slide.PNG" alt="Geographic coordinate systems" width="80%">
 
 ### Projected Coordinate Systems
 
@@ -38,7 +38,7 @@ Projected coordinate systems are a method of representing the earth in two dimen
 
 By projecting a round earth onto a flat surface, you introduce distortion. The example shown on this slide is the Mercator projection. As shown by the red grid lines, the areas of least distortion are closer to the equator, increasing as you get closer to the poles. 
 
-> <img src="img/Projection_slide.PNG" alt="Projected coordinate systems" width="80%">
+> <img src="../assets/img/Projection_slide.PNG" alt="Projected coordinate systems" width="80%">
 
 For a comprehensive list of different projections and types, along with their properties, suitable extents, location, orientation, and purpose, see the following chart from Esri, adapted from a USGS map projections poster.
 
@@ -58,8 +58,8 @@ Choosing a coordinate system that matches your study area and intended use will 
 
 | Web Mercator Projection | Lambert Conformal Conic Projection |
 |--------------|---------------|
-| <img src="img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000,000| <img src="img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
-| [View the original Mercator image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_Mercator_Map.png) | [View the original Lambert image](https://github.com/scds/ArcGIS-Pro/blob/main/lessons/img/Canada_LCC_Map_Zoom.png) |
+| <img src="../assets/img/Canada_Mercator_Map.png" alt="Map of Canada using Mercator projection"> Scale 1:80,000,000| <img src="../assets/img/Canada_LCC_Map_Zoom.png" alt="Map of Canada using Lambert Conformal Conic projection"> Scale 1:27,500,000 |
+| [View the original Mercator image](../assets/img/Canada_Mercator_Map.png) | [View the original Lambert image](../assets/img/Canada_LCC_Map_Zoom.png) |
 
 ## In ArcGIS Pro
 
@@ -77,7 +77,7 @@ Within the map properties, you can see the current coordinate system and search 
 
 You can also add coordinate systems to a list of favourites by clicking the star symbol.
 
-<img src="img/Map_Properties.png" alt="Map properties dialog box" width="60%">
+<img src="../assets/img/Map_Properties.png" alt="Map properties dialog box" width="60%">
 
 {: .new-title }
 > Activity                                           
@@ -86,7 +86,7 @@ You can also add coordinate systems to a list of favourites by clicking the star
 > 
 > Explore the map to see the changes.
 
-<img src="img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="60%">
+<img src="../assets/img/Map_Properties_Equal_Earth.png" alt="Map properties dialog box" width="60%">
 
 This projection is particularly useful for thematic maps at the global scale where areas are preserved.
 
@@ -98,17 +98,15 @@ It's best to ensure all datasets in your map are in the same coordinate system, 
 
 To change the coordinate system of vector data, use the *Project* tool found in the Data Management toolbox. This tool can be accessed in a couple ways:
 
-- Search for the Project tool in the Geoprocessing pane
+- Search for the Project tool in the Geoprocessing pane  
+<img src="../assets/img/Search_Project.PNG" alt="Search for Project tool" width="40%">
 
-<img src="img/Search_Project.PNG" alt="Search for Project tool" width="40%">
-
-- Browse the toolbox for the Project tool found under Data Management
-
-<img src="img/Project_Data_Management_Toolbox.png" alt="Project tool found in Data Management Toolbox" width="30%">
+- Browse the toolbox for the Project tool found under Data Management  
+<img src="../assets/img/Project_Data_Management_Toolbox.png" alt="Project tool found in Data Management Toolbox" width="30%">
 
 If the geoprocessing pane isn't open, click the View tab and select the Geoprocessing button.
 
-<img src="img/Geoprocessing_Pane.png" alt="Geoprocessing pane in view tab" width="50%">
+<img src="../assets/img/Geoprocessing_Pane.png" alt="Geoprocessing pane in view tab" width="50%">
 
 {: .new-title }
 > Activity                                           
@@ -117,7 +115,7 @@ If the geoprocessing pane isn't open, click the View tab and select the Geoproce
 
 |Project Tool|Parameters|
 |---|---|
-|<img src="img/Project_Tool.PNG" alt="Project tool" width="70%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
+|<img src="../assets/img/Project_Tool.PNG" alt="Project tool" width="70%">|Where:<br> - Input Dataset = the dataset being projected<br>- Output Dataset = the resulting (projected) dataset<br>- Output Coordinate System = the new coordinate system|
 
 ## Summary
 This lesson covered: 
@@ -125,7 +123,7 @@ This lesson covered:
 - How to choose the coordinate system for your map.
 - How to convert, or project, data between coordinate systems.
 
-## Additional Resources (optional)
+## Additional Resources
 Portions of this lesson were drawn from the Esri tutorial *Choose the right projection*. 
 
 For more information on projection types and the properties of different projections that will help you decide which one is best for your application, see - [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/). This tutorial will also show how to modify existing projected coordinate systems and create a custom one.
