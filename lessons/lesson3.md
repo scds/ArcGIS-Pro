@@ -43,6 +43,7 @@ By projecting a round earth onto a flat surface, you introduce distortion. The e
 For a comprehensive list of different projections and types, along with their properties, suitable extents, location, orientation, and purpose, see the following chart from Esri, adapted from a USGS map projections poster.
 
 [Quick Notes on Map Projections](https://www.arcgis.com/sharing/rest/content/items/e8b85d508d2c4f21a3dec4e52dc7d9c4/data)
+(Esri, 2019)
 
 ### Why is this important?
 
@@ -66,7 +67,7 @@ The activities in the following sections will use the Map Projections Project Pa
 
 [Map Projections Project Package](https://www.arcgis.com/sharing/rest/content/items/3980eb073a294a51b6a809abc661e43f/data) (direct download)
 
-This project package is used in the [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/) tutorial from Esri, available through the [Learn ArcGIS website](https://learn.arcgis.com/en/gallery/).
+This project package and portions of this tutorial are from the the [Choose the right projection](https://learn.arcgis.com/en/projects/choose-the-right-projection/) tutorial originally developed by Esri's Learn Team. This and other tutorials are available through the [Learn ArcGIS website](https://learn.arcgis.com/en/gallery/).
 
 ### Map Properties: Coordinate Systems
 
