@@ -99,5 +99,5 @@ This lesson covered:
 ## Additional Resources
 If you're feeling adventurous and want to explore further customization of basemaps, below is a tutorial series from Esri.
 
-[Personalize your map with custom basemap styles](https://mediaspace.esri.com/channel/ArcGIS+Pro/238049152)
+[Personalize your map with custom basemap styles](https://learn.arcgis.com/en/paths/personalize-your-maps-with-custom-basemap-styles/)
 (Learn ArcGIS Tutorial Gallery)
