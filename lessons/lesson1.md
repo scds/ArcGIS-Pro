@@ -63,7 +63,7 @@ The text version of the tutorial can be found in the [Quick Start Tutorials](htt
 > 
 
 <!-- Place iframe of video here -->
-<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://youtu.be/1YhdQToyPg4?si=NOgBzStNfVyon3ud" title="Introducing ArcGIS Pro"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1YhdQToyPg4?si=ZaqDp31btyUxxnlB" title="Introducing ArcGIS Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [View original video here](https://youtu.be/1YhdQToyPg4?si=NOgBzStNfVyon3ud)
 
