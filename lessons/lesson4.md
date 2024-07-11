@@ -32,19 +32,19 @@ Polygons or areas can also be filled in with colours to represent numeric, thema
 |----------|----------|
 |<img src="img/Point_Symbology.png" alt="Point symbology" width="70%">|<img src="img/Polygon_Symbology.png" alt="Polygon symbology" width="70%">|
 
-When selecting the symbology ensure the symbols are clear and legible to the reader. This includes considerations for colour blindness. The View tab of ArcGIS Pro includes a colour vision simulator for different vision types. The [Colour Brewer](https://colorbrewer2.org/) tool also suggests colour ranges based on the number of classes and nature of the data.
+When selecting the symbology ensure the symbols are clear and legible to the reader. This includes considerations for colour blindness. The View tab of ArcGIS Pro includes a colour vision simulator for different vision types. The [Colour Brewer](https://colorbrewer2.org/) tool (Cynthia Brewer, Mark Harrow, Pennsylvania State University) also suggests colour ranges based on the number of classes and nature of the data.
 
 {: .new-title }
 > Activity
 > 
-> Follow along with the video by repeating the steps in ArcGIS Pro.>
+> Follow along with the video by repeating the steps in ArcGIS Pro.
 > 
 
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/6ZqbKvOZ1lE?si=flCBGQOkO55V_EIv" title="Symbolize map layers in ArcGIS Pro"></iframe>
 
-[View original video here](https://youtu.be/6ZqbKvOZ1lE)
+[View the original video from Esri here](https://youtu.be/6ZqbKvOZ1lE)
 
-The text version of the tutorial can be found in the [Documentation](https://pro.arcgis.com/en/pro-app/latest/get-started/symbolize-your-data.htm).
+The text version of the tutorial can be found in the [Esri Documentation](https://pro.arcgis.com/en/pro-app/latest/get-started/symbolize-your-data.htm).
 
 ## Summary
 This lesson covered:
@@ -53,7 +53,7 @@ This lesson covered:
 ## Additional Resources (optional)
 Below are links to additional resources which go into more detail on map symbology:
 
-- [Cartographic creations in ArcGIS Pro](https://learn.arcgis.com/en/paths/cartographic-creations-in-arcgis-pro/) - Tutorial Series
-- [Design symbology for a thematic map in ArcGIS Pro](https://learn.arcgis.com/en/projects/design-symbology-for-a-thematic-map/arcgis-pro/)
-- [Improve 3D thematic symbology](https://learn.arcgis.com/en/projects/improve-3d-thematic-symbology/)
+- [Cartographic creations in ArcGIS Pro](https://learn.arcgis.com/en/paths/cartographic-creations-in-arcgis-pro/) - Learn ArcGIS Tutorial Series (Esri)
+- [Design symbology for a thematic map in ArcGIS Pro](https://learn.arcgis.com/en/projects/design-symbology-for-a-thematic-map/arcgis-pro/) (Heather Smith, Esri)
+- [Improve 3D thematic symbology](https://learn.arcgis.com/en/projects/improve-3d-thematic-symbology/) (Nathan Shephard, Esri)
 
