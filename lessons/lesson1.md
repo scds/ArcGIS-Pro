@@ -63,9 +63,9 @@ The text version of the tutorial can be found in the [Quick Start Tutorials](htt
 > 
 
 <!-- Place iframe of video here -->
-<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://mediaspace.esri.com/embed/secure/iframe/entryId/1_22wi7jam/uiConfId/49806163/pbc/238049152/st/0" title="Introducing ArcGIS Pro"></iframe>
+<iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://youtu.be/1YhdQToyPg4?si=NOgBzStNfVyon3ud" title="Introducing ArcGIS Pro"></iframe>
 
-[View original video here](https://mediaspace.esri.com/media/t/1_22wi7jam)
+[View original video here](https://youtu.be/1YhdQToyPg4?si=NOgBzStNfVyon3ud)
 
 <!-- Text content format for your lessons if you don't want to rely on videos, or want to provide another format of learning consumption. -->
 
