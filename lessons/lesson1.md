@@ -93,11 +93,11 @@ This lesson covered:
 ## Additional Resources
 Below are some ArcGIS Pro introductory resources:
 
-- [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/pro-quickstart-tutorials.htm)
-- Learning the Basics
-    - [Introducing ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm)
-    - [Navigate Maps and Scenes](https://pro.arcgis.com/en/pro-app/latest/get-started/navigate-your-data.htm)
- - [Learn ArcGIS Tutorial Gallery](https://learn.arcgis.com/en/gallery/)
- - [Get familiar with ArcGIS Pro (video series)](https://learn.arcgis.com/en/paths/get-familiar-with-arcgis-pro/)
- - [ArcGIS Pro Video Library](https://mediaspace.esri.com/channel/ArcGIS+Pro/238049152)
+- [ArcGIS Pro Quick Start Tutorials (Esri)](https://pro.arcgis.com/en/pro-app/latest/get-started/pro-quickstart-tutorials.htm)
+    - Learning the Basics
+        - [Introducing ArcGIS Pro](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm)
+        - [Navigate Maps and Scenes](https://pro.arcgis.com/en/pro-app/latest/get-started/navigate-your-data.htm)
+ - [Learn ArcGIS Tutorial Gallery (Esri)](https://learn.arcgis.com/en/gallery/)
+     - [Get familiar with ArcGIS Pro (video series)](https://learn.arcgis.com/en/paths/get-familiar-with-arcgis-pro/)
+ - [ArcGIS Pro Video Library (Esri)](https://mediaspace.esri.com/channel/ArcGIS+Pro/238049152)
 
