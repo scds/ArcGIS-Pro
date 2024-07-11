@@ -46,8 +46,10 @@ ArcGIS Pro includes a number of basemaps in the basemap gallery. These include a
 In addition to the basemaps in the Basemap Gallery, more basemaps can be found by searching ArcGIS Online or the Living Atlas. These include basemaps designed with enhanced colour contrast, strong colours, simplified features, and clear fonts. For more information on the creation and features of these enhanced contrast basemaps, see the following articles from Esri.
 
 [Towards an accessible basemap](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/towards-an-accessible-basemap/)
+(Andy Skinner, ArcGIS Blog, October 22, 2020)
 
 [A Gray Accessible Basemap](https://www.esri.com/arcgis-blog/products/arcgis-living-atlas/mapping/a-gray-accessible-basemap/)
+(Andy Skinner, ArcGIS Blog, May 19, 2021)
 
 {: .new-title }
 > Activity
@@ -98,3 +100,4 @@ This lesson covered:
 If you're feeling adventurous and want to explore further customization of basemaps, below is a tutorial series from Esri.
 
 [Personalize your map with custom basemap styles](https://mediaspace.esri.com/channel/ArcGIS+Pro/238049152)
+(Learn ArcGIS Tutorial Gallery)
