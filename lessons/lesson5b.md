@@ -26,7 +26,7 @@ Another way to share your map is to compose and print a map layout. This lesson 
 ## Map Layouts
 Map layouts are used to design the map for printing or publication and include map elements such as a title, scale bar, north arrow, legend, and data sources. 
 
-The following video guides you through the process of creating, exporting, and printing a map layout. The text version of this lesson is available through the ArcGIS Pro [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm).
+The following video guides you through the process of creating, exporting, and printing a map layout. The text version of this lesson is available through the ArcGIS Pro [Quick Start Tutorials](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm) from Esri.
 
 {: .new-title }
 > Activity                                           
@@ -35,10 +35,10 @@ The following video guides you through the process of creating, exporting, and p
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/EhE55ZtrJlk" title="Make a layout in ArcGIS Pro"></iframe>
 
-[Watch on YouTube](https://www.youtube.com/embed/EhE55ZtrJlk)
+[Watch the video on the ArcGIS YouTube channel](https://www.youtube.com/embed/EhE55ZtrJlk)
 
 ### Print Settings
-For more information about the print options, such as size and output quality, see the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/print-a-map-or-layout.htm#ESRI_SECTION1_2EB761C8C40646F39C5F7A5F4858759A).
+For more information about the print options, such as size and output quality, see the Printing Options section of the [ArcGIS Pro documentation](https://pro.arcgis.com/en/pro-app/latest/help/sharing/overview/print-a-map-or-layout.htm#ESRI_SECTION1_2EB761C8C40646F39C5F7A5F4858759A).
 
 ### Available File Types
 In addition to the JPEG file format, there are a number of other formats available, including those listed below. 
@@ -60,16 +60,16 @@ After completing the above lesson, you should be able to:
 
 ## Additional Resources (optional)
 The following are a list of other items that can be added to layouts:
-- [Make an inset map](https://learn.arcgis.com/en/projects/cartographic-creations-make-an-inset-map/)
-- [Add a grid or graticule](https://pro.arcgis.com/en/pro-app/latest/help/layouts/add-a-grid.htm)
-- [Add a chart](https://pro.arcgis.com/en/pro-app/latest/help/layouts/charts.htm)
+- [Cartographic creations - Make an inset map](https://learn.arcgis.com/en/projects/cartographic-creations-make-an-inset-map/) (Heather Smith, Esri)
+- [Add a grid or graticule](https://pro.arcgis.com/en/pro-app/latest/help/layouts/add-a-grid.htm) (ArcGIS Pro documentation, Esri)
+- [Add a chart](https://pro.arcgis.com/en/pro-app/latest/help/layouts/charts.htm) (ArcGIS Pro documentation, Esri)
 
 See the following resources for more options relating to map layouts and the methods to convert a web map to a static print map.
-- [Convert a web map into a static map](https://learn.arcgis.com/en/projects/convert-a-web-map-into-a-print-map/)
-- [Arrange a map layout](https://learn.arcgis.com/en/projects/cartographic-creations-arrange-a-map-layout/)
-- [Create a map series](https://pro.arcgis.com/en/pro-app/latest/help/layouts/map-series.htm)
+- [Convert a web map into a static map](https://learn.arcgis.com/en/projects/convert-a-web-map-into-a-print-map/) (Heather Smith, Esri)
+- [Cartographic creations - Arrange a map layout](https://learn.arcgis.com/en/projects/cartographic-creations-arrange-a-map-layout/) (Heather Smith, Esri)
+- [Create a map series](https://pro.arcgis.com/en/pro-app/latest/help/layouts/map-series.htm) (ArcGIS Pro documentation, Esri)
 
 The following pages go into more detail about map design and the elements of a map layout.
 - [Principles of map design - Map essentials](https://storymaps.arcgis.com/stories/daea26d48cc041f08f4c9a1b7b2ba9d5)
-- [Design principles for cartography](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/design-principles-for-cartography/)
+- [Design principles for cartography](https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/design-principles-for-cartography/) (Aileen Buckley, ArcGIS Blog, October 28, 2011)
 
