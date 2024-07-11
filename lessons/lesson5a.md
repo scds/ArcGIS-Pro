@@ -35,7 +35,7 @@ Maps created in ArcGIS Pro can be shared to ArcGIS Online as an interactive web 
 
 <iframe width="100%" height="416" allowfullscreen frameborder=0 src="https://www.youtube.com/embed/RUHOf6P6Bl0?si=WOf79q9PNAVHqCZo" title="Share a web map in ArcGIS Pro"></iframe>
 
-[View original video here](https://youtu.be/RUHOf6P6Bl0)
+[View the original video from Esri here](https://youtu.be/RUHOf6P6Bl0)
 
 ## Share a Project Package
 Another way to share a project is to create a project package. A project package includes all components of a project and can be saved to file or shared to ArcGIS Online. This allows for collaboration or creating a copy of the project as a backup.
@@ -43,7 +43,7 @@ Another way to share a project is to create a project package. A project package
 {: .new-title }
 > Activity
 > 
-> Following the steps below, or in Esri's [Share a project package](https://pro.arcgis.com/en/pro-app/3.1/help/sharing/overview/project-package.htm) documentation, share a project as a Project Package.
+> Follow along with the steps from Esri's documentation page to [Share a project package](https://pro.arcgis.com/en/pro-app/3.1/help/sharing/overview/project-package.htm), or see below for a brief overview of the process.
 
 In the Share tab, select Project. Choose to save the project either to file or upload to your ArcGIS account and fill out the required parameters.
 
@@ -64,6 +64,6 @@ This lesson covered:
 ## Additional Resources (optional)
 Below are links to additional resources that expand or build upon the information above:
 
-- [Share a map](https://learn.arcgis.com/en/projects/share-a-map/)
-- [Create an app](https://learn.arcgis.com/en/projects/create-an-app/)
-- [Convert a static map into a web map](https://learn.arcgis.com/en/projects/convert-a-static-map-into-a-web-app/)
+- [Share a map](https://learn.arcgis.com/en/projects/share-a-map/) (Learn ArcGIS tutorial, Esri)
+- [Create an app](https://learn.arcgis.com/en/projects/create-an-app/) (Learn ArcGIS tutorial, Esri)
+- [Convert a static map into a web map](https://learn.arcgis.com/en/projects/convert-a-static-map-into-a-web-app/) (Heather Smith, Esri)
